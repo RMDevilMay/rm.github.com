@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "求职简历"
-date:       2016-10-26 03:20:12
+date:       2016-10-25 03:20:12
 author:     "RM"
 header-img: "img/home-bg.jpg"
 tags:
