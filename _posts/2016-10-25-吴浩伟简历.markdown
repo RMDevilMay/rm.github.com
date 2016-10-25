@@ -9,52 +9,50 @@ tags:
     - 求职
 ---
 
-><h1>吴浩伟<h1>
+><font style="font-size:2em;">吴浩伟</font>
 
 <div>
 <br>毕业院校：河源职业技术学院
 <br>专业：计算机应用技术（嵌入式）</p>
 <br>
-<br><h3>工作经历</h3>
+<br><font style="font-size:1.5em;">工作经历</font>
 
 <br>深圳科诗特软件有限责任公司(web开发工程师
 <br>2016·02-至今
 <br>
-<br>职责：负责公司游戏后台管理系统开发及KBEngine游戏服务器引擎控制台开发
+<br><font style="font-size:1em;">职责:</font>负责公司游戏后台管理系统开发及KBEngine游戏服务器引擎控制台开发
 <br>使用技术：python、Django、HTML+CSS+Javascript
 <br>
-><h3>项目经验</h3>
+><font style="font-size:1.5em;">项目经验</font>
 <br>
-<br><h4>1、游戏服务器引擎web控制台</h4>
-
-<br><h5>职责</h5>
-<br>担任web开发工程师的角色，负责项目前后端的设计和功能实现
+<br><font style="font-size:1.2em;">1、游戏服务器引擎web控制台</font>
+<br><font style="font-size:1em;">职责:</font>担任web开发工程师的角色，负责项目前后端的设计和功能实现
 <br>
-<br><h5>项目描述：</h5>
+<br><font style="font-size:1em;">项目描述：</font>
 <br>使用python的web框架Django进行开源游戏服务器引擎Kbengine的web端控制台开发，最终整个控制台集成了“多用户管理”、“服务器集群管理”、“服务器性能分析”、“实时日志显示筛选”、“命令行控制台”、“实时进程状态图”、“服务器组件参数查询”等功能，在该项目中大量使用socket和websocket在服务端和客户端以及底层进行数据交互。使得在任意有网络的地点都能使用网页远程控制和监测游戏服务器的实时状态。
 <br><img src="http://wuhaowei.com/img/wc1.png" width="100%" />
 <img src="http://wuhaowei.com/img/wc2.png" width="100%" />
 <br>
-<br><h4>、两个游戏后台管理系统</h4>
+<br><font style="font-size:1.2em;">、两个游戏后台管理系统</font>
 <br>
-<br><h5>职责</h5>
+<br><font style="font-size:1em;">职责</font>
 <br>担任web开发工程师的角色，负责项目前后端的设计和功能实现
 <br>
-<br><h5>项目描述</h5>
+<br><font style="font-size:1em;">项目描述</font>
 <br>使用python的web框架Django开发公司游戏项目的管理后台，实现“账户查询”、“封号禁言”、“系统邮件查询发送”、“系统消息广播”、“登录公告查询发送”、“活动查询发起”、“商城管理”等功能。
 <br>
-<br><h5>3、网站开发接单</h5>
+<br><font style="font-size:1em;">3、网站开发接单</font>
 <br>
-<br><h5>职责</h5>
+<br><font style="font-size:1em;">职责</font>
 <br>担任web开发工程师的角色，负责项目前后端的设计和功能实现
 <br>
-<br><h5>项目描述</h5>
+<br><font style="font-size:1em;">项目描述</font>
 <br>使用python的Django框架或PHP框架实现用户需求
 <br>
-><h3>技能评价</h3>
+><font style="font-size:1.5em;">技能评价</font>
 <br><img src="http://wuhaowei.com/img/skill.png" width="100%" />
 <br>
-><h3>自我描述</h3>
+><font style="font-size:1.5em;">自我描述</font>
 <br>1. 熟练使用python和Django进行web开发；
 <br>2. 能使用node.js进行web开发；
 <br>3. 熟悉相关前端技术HTML+CSS+JS、vue.js、jquery、bootstrap的使用；
