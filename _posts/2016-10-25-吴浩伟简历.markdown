@@ -26,7 +26,7 @@ tags:
 <br><font style="font-size:1.7em;">项目经验</font>
 <br>
 <br><font style="font-size:1.5em;">1、游戏服务器引擎web控制台</font>
-<br>
+<br><a href="http://wuhaowei.com/2016/10/25/KBE-WebConsole简介/">点击查看项目简介</a>
 <br><font style="font-size:1.3em;">职责：</font>担任web开发工程师的角色，负责项目前后端的设计和功能实现
 <br>
 <br><font style="font-size:1.3em;">项目描述：</font>
