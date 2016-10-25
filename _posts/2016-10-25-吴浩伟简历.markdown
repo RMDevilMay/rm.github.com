@@ -21,7 +21,7 @@ tags:
 <br>2016·02-至今
 <br>
 <br><font style="font-size:1.3em;">职责:</font>负责公司游戏后台管理系统开发及KBEngine游戏服务器引擎控制台开发
-<br<font style="font-size:1.3em;">>使用技术：</font> python、Django、HTML+CSS+Javascript
+<br><font style="font-size:1.3em;">>使用技术：</font> python、Django、HTML+CSS+Javascript
 <br>
 <br><font style="font-size:1.7em;">项目经验</font>
 <br>
