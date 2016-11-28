@@ -27,9 +27,8 @@ tags:
   <p>  	// info += '<ul>';</ul>
   <p>  	console.log(data);</p>
   <p>  	for (var x in data[1]["keys"])
-    		list += '<li><span onclick="refresh(this)" key="'+key+'/'+data[1]["keys"][x]+'"><a href="javascript:void(0);"><p>'+data[1]["keys"][x]+'</a></span></li>';</p>
-<p>
-  <p>  	for (var y in data[0]["values"])</p>
+    		list += '<li><span onclick="refresh(this)" key="'+key+'/'+data[1]["keys"][x]+'"><a href="javascript:void(0);"><p>'+data[1]["keys"][x]+'</a></span></li>';
+   	for (var y in data[0]["values"])</p>
   <p>  		info += '<tr><td>'+y+':</td><td>'+data[0]["values"][y]+'</td></tr>';</p>
    <p> 	console.log(info);</p>
 <p></p>
