@@ -11,7 +11,7 @@ tags:
 ---
 
 <div>
-<textarea>
+<textarea style="width: 50%;height: 500px;">
 function refresh(obj)
 {
 	console.log($(obj).attr("key"));
@@ -40,7 +40,7 @@ function refresh(obj)
 }
 
 </textarea>
-<textarea>
+<textarea style="width: 50%;height: 500px;">
 @login_check
 def watcher_context(request):
 	GET = request.GET
