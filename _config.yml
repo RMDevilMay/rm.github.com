@@ -4,14 +4,15 @@ version: "1.0"
 permalink: /:year/:month/:day/:title/
 
 # 站点设置
-title: "Guovz"
-email: pzhuwjl@qq.com
-description: "王继林的个人博客"
-keywords: "Guovz"
+title: "马猴RM"
+email: rmdevilmay@gmail.com
+description: "RM的个人博客"
+keywords: "RM"
 
 # 用户信息设置
-weibo_username: Guovz
-github_username: guovz
+weibo_username: RM_吴浩伟
+zhihu_username: wuhaoweirm
+
 
 # Markdown设置
 kramdown:
