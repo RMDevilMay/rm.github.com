@@ -70,7 +70,7 @@ ga_domain: wuhaowei.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "闲庭敲代码，坐看Bug起。"
+sidebar-about-description: "敬揖造化赠我，这场人间相逢。"
 sidebar-avatar: /img/whw.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
