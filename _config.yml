@@ -1,10 +1,10 @@
 # Site settings
-title: RM Blog
-SEOTitle: RM浩伟的博客 | RM Blog
+title: 彭秋兰 临时站
+SEOTitle: 彭秋兰 | 临时站
 header-img: img/home-bg.jpg
-email: rmdevilmay@gmail.com
-description: "About python web | 这里是 RM浩伟 的个人博客，欢迎吹水。"
-keyword: "浩伟, RM浩伟, RM, 全栈, rm, @RM浩伟, RM浩伟的博客, RM Blog, 博客, 个人网站, 互联网, web, Django, KBE, python, 产品, 游戏"
+email: 645630190@qq.com
+description: "About python web | 这里是彭秋兰的临时站。"
+keyword: ""
 url: "https://wuhaowei.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -12,9 +12,9 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     RM_吴浩伟
-zhihu_username:     wuhaoweirm
-github_username:    RMDevilMay
+weibo_username:     无
+zhihu_username:     无
+github_username:    无
 #twitter_username:  huxpro
 # facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
@@ -64,14 +64,14 @@ kramdown:
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: wuhaowei.com
+ga_domain: 无
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "敬揖造化赠我，这场人间相逢。"
-sidebar-avatar: /img/whw.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "不知道说啥"
+sidebar-avatar: /img/pql.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
